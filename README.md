@@ -26,8 +26,8 @@
 ---
 
 ## 📊 Coding
-- Solved 35+ problems on LeetCode  
-
+- Solved 39+ problems on LeetCode  
+- GitHub: https://github.com/ApoorvaR05/leetcode-solutions
 ---
 
 ## 📫 Connect with me
