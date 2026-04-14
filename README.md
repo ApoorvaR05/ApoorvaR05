@@ -26,7 +26,7 @@
 ---
 
 ## 📊 Coding
-- Solved 50+ problems on LeetCode  
+- Solved 35+ problems on LeetCode  
 
 ---
 
