@@ -26,7 +26,7 @@
 ---
 
 ## 📊 Coding
-- Solved 60+ problems on LeetCode  
+- Solved 80+ DSA problems
 - GitHub: https://github.com/ApoorvaR05/leetcode-solutions
 ---
 
